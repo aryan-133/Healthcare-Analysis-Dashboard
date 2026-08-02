@@ -23,12 +23,6 @@ Funnel Chart	Patient count by Diagnosis
 Line Chart	Billing Amount vs. Health Insurance Amount by Diagnosis
 Slicers	Filter by Patient ID and Admit Date range
 
-(See screenshots below.)
-
-# Repository Structure
-├── Health_Care_Analysis_Dashboard.pbix   # Power BI dashboard file
-├── screenshots/                          # Dashboard preview images
-└── README.md
 # Key Fields in the Dataset
 
 Patient_ID, Admit_Date, Discharge_Date, Followup Date, Doctor, Diagnosis, Bed_Occupancy, Billing Amount, Health Insurance Amount, Feedback
