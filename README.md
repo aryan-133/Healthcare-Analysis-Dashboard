@@ -46,4 +46,4 @@ Add drill-through pages for individual doctor or diagnosis performance.
 
 Aryan
 
-If you found this project useful or interesting, feel free to ⭐ the repository and connect with me!
+
